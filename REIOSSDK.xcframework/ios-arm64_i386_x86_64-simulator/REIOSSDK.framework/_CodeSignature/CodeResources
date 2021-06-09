@@ -34,7 +34,7 @@
 		</data>
 		<key>Modules/REIOSSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		7Fdj9dxEsheWn8uFaihYCzZ4aa0=
+		lWKTho9wQxdtROiVkbZwB5YQZ9k=
 		</data>
 		<key>Modules/REIOSSDK.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -46,7 +46,7 @@
 		</data>
 		<key>Modules/REIOSSDK.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		7Fdj9dxEsheWn8uFaihYCzZ4aa0=
+		lWKTho9wQxdtROiVkbZwB5YQZ9k=
 		</data>
 		<key>Modules/REIOSSDK.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -58,7 +58,7 @@
 		</data>
 		<key>Modules/REIOSSDK.swiftmodule/i386-apple-ios-simulator.swiftmodule</key>
 		<data>
-		xRSZc1x/5Q7iLEql2pNzF5RqE0k=
+		LkqmTnUYluLyzVlmYQ5s4a0QjNk=
 		</data>
 		<key>Modules/REIOSSDK.swiftmodule/i386.swiftdoc</key>
 		<data>
@@ -70,7 +70,7 @@
 		</data>
 		<key>Modules/REIOSSDK.swiftmodule/i386.swiftmodule</key>
 		<data>
-		xRSZc1x/5Q7iLEql2pNzF5RqE0k=
+		LkqmTnUYluLyzVlmYQ5s4a0QjNk=
 		</data>
 		<key>Modules/REIOSSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -82,7 +82,7 @@
 		</data>
 		<key>Modules/REIOSSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		9bin3PdLNHUvH26XhS/VbvqOhFI=
+		EzEQjYEGSNXtFr1QXjKe/C48pd8=
 		</data>
 		<key>Modules/REIOSSDK.swiftmodule/x86_64.swiftdoc</key>
 		<data>
@@ -94,7 +94,7 @@
 		</data>
 		<key>Modules/REIOSSDK.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		9bin3PdLNHUvH26XhS/VbvqOhFI=
+		EzEQjYEGSNXtFr1QXjKe/C48pd8=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -205,11 +205,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			7Fdj9dxEsheWn8uFaihYCzZ4aa0=
+			lWKTho9wQxdtROiVkbZwB5YQZ9k=
 			</data>
 			<key>hash2</key>
 			<data>
-			oCKQW/EULQhx9A/TCX+aImQaiqmCa1B+mS8l4vOuPFY=
+			H06IAIkV6+TSbzKpfmn3M9Nm3hVcfZIGdmWmGYzqcEc=
 			</data>
 		</dict>
 		<key>Modules/REIOSSDK.swiftmodule/arm64.swiftdoc</key>
@@ -238,11 +238,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			7Fdj9dxEsheWn8uFaihYCzZ4aa0=
+			lWKTho9wQxdtROiVkbZwB5YQZ9k=
 			</data>
 			<key>hash2</key>
 			<data>
-			oCKQW/EULQhx9A/TCX+aImQaiqmCa1B+mS8l4vOuPFY=
+			H06IAIkV6+TSbzKpfmn3M9Nm3hVcfZIGdmWmGYzqcEc=
 			</data>
 		</dict>
 		<key>Modules/REIOSSDK.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
@@ -271,11 +271,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			xRSZc1x/5Q7iLEql2pNzF5RqE0k=
+			LkqmTnUYluLyzVlmYQ5s4a0QjNk=
 			</data>
 			<key>hash2</key>
 			<data>
-			LqfR56cYZyI0NfzcE1ItlXeCnOW0nAcUUlO8AAu71Eo=
+			andWKwqA4IubVfsfFjXqSFHCTplMFNHC41oBReHn5r8=
 			</data>
 		</dict>
 		<key>Modules/REIOSSDK.swiftmodule/i386.swiftdoc</key>
@@ -304,11 +304,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			xRSZc1x/5Q7iLEql2pNzF5RqE0k=
+			LkqmTnUYluLyzVlmYQ5s4a0QjNk=
 			</data>
 			<key>hash2</key>
 			<data>
-			LqfR56cYZyI0NfzcE1ItlXeCnOW0nAcUUlO8AAu71Eo=
+			andWKwqA4IubVfsfFjXqSFHCTplMFNHC41oBReHn5r8=
 			</data>
 		</dict>
 		<key>Modules/REIOSSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -337,11 +337,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			9bin3PdLNHUvH26XhS/VbvqOhFI=
+			EzEQjYEGSNXtFr1QXjKe/C48pd8=
 			</data>
 			<key>hash2</key>
 			<data>
-			m8d00ABDgTAcn1Qtl0OqMi3YXMkujCjI0LAdW1sSXjM=
+			ly1Awff4E5HVUytaeA11Z6HSRE4U5Kluczxpdf31+Po=
 			</data>
 		</dict>
 		<key>Modules/REIOSSDK.swiftmodule/x86_64.swiftdoc</key>
@@ -370,11 +370,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			9bin3PdLNHUvH26XhS/VbvqOhFI=
+			EzEQjYEGSNXtFr1QXjKe/C48pd8=
 			</data>
 			<key>hash2</key>
 			<data>
-			m8d00ABDgTAcn1Qtl0OqMi3YXMkujCjI0LAdW1sSXjM=
+			ly1Awff4E5HVUytaeA11Z6HSRE4U5Kluczxpdf31+Po=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
